@@ -27,7 +27,8 @@ header > .v_align {
 
 header > .v_align > .first {
   text-align: center;
-  font-size: 1.4em;
+  font-size: 1.7em;
+  font-weight: bold;
 }
 header > .v_align > .second {
   text-align: center;
