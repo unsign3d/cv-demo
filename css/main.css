@@ -1,0 +1,96 @@
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body,html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Metrophobic', Arial, serif; font-weight: 400;
+}
+
+.left-column {
+}
+.right-column {
+  height: 100%;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+}
+
+header > .v_align {
+  margin-top: 32px;
+}
+
+header > .v_align > .first {
+  text-align: center;
+  font-size: 1.4em;
+}
+header > .v_align > .second {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+body > div.col-sm-6.left-column > pre {
+  height: 725px;
+}
+body > div.col-sm-6.left-column > p {
+  text-align: center;
+  height: 60px;
+}
+body > div.col-sm-6.right-column > p {
+  text-align: center;
+  height: 60px;
+}
+
+body > div.col-sm-6.right-column > div {
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.phone-content {
+  background-color: white;
+  overflow: hidden;
+
+}
+.scroll-content {
+  overflow: auto;
+  height: 568px;
+}
+body > div.col-sm-6.right-column > div > div.screen > div > div {
+  width: 320px;
+  margin-bottom: 10px;
+}
+.demo-card-wide > .profile {
+  color: #fff;
+  height: 176px;
+  background: url('https://lh3.googleusercontent.com/-WrgCHxSGmSI/UfvZMVFhAMI/AAAAAAAABOE/ZXOQy7xxSTcU_U0lVw_wGJ9QQzDXrLJmgCL0B/s581-no/me.jpg') center / cover;
+}
+.demo-card-wide {
+  width: 320px;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+.social-icon {
+  height: 50px;
+  margin-right: 10px;
+}
+.skills {
+  margin-top: 24px;
+}
+
+.skills  p {
+  margin-top: 10px;
+  text-align: left;
+}
+.skill-title {
+  font-size: 1.4em;
+  text-align: left;
+}

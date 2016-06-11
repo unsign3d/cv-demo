@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Luca Bruzzone",
+    "label": "Software developer",
+    "website": "http://me.unsigned.it",
+    "summary": "I'm a Backend (5+ years) and Android (1 years) developer,very passionate about software architectures, clean coding and TDD.",
+    "location": {
+      "city": "Berlin",
+      "countryCode": "DE",
+    },
+    "profiles": [{
+      "network": "Facebook",
+      "username": "unsign3d",
+      "url": "https://www.facebook.com/unsign3d"
+    },
+    {
+      "network": "Twitter",
+      "username": "unsign3d",
+      "url": "http://twitter.com/unsign3d"
+    },
+    {
+      "network": "Medium",
+      "username": "unsigned",
+      "url": "https://medium.com/@unsigned/"
+    },
+    {
+      "network": "Linkedin",
+      "username": "lucabruzzone",
+      "url": "https://www.linkedin.com/in/lucabruzzone"
+    },
+    {
+      "network": "Github",
+      "username": "unsign3d",
+      "url": "https://github.com/unsign3d"
+    }]
+  },
+  "work": [{
+    "company": "Tandù s.r.l",
+    "position": "Backend and Android developer",
+    "website": "http://tandu.it",
+    "startDate": "2015-05-12",
+    "endDate": "2016-06-15",
+    "summary": "Developed web application (backend) and Android app with the latest technologies, worked with cloud environaments",
+    "highlights": [
+      "Test driven development",
+      "Cloud solution architect",
+      "Api architect",
+      "Android architecture research"
+    ]
+  },
+  ,
+  {
+    "company": "Scale.ws",
+    "position": "Cofounder / head of R&D",
+    "website": "http://scale.ws/",
+    "startDate": "2015-10-01",
+    "endDate": "",
+    "summary": "Scale.ws wants to create opensource products to help developers do the heavy lifting, mostly providing a easy way to deploy and some microservices for common part of applications",
+    "highlights": [
+      "Cloud architecture",
+      "Microservices",
+      "Opensource",
+      "Automation"
+    ]
+  }
+  {
+    "company": "Audisio Graphic Design",
+    "position": "Consultancy",
+    "website": "http://audisiogd.com/",
+    "startDate": "2011-01-01",
+    "endDate": "2015-05-01",
+    "summary": "Full stack developer (php-javascript), SEO architect, hosting consultancy",
+    "highlights": [
+      "SEO optimization",
+      "Cost effective web development",
+      "Agile development"
+    ]
+  },
+  {
+    "company": "SGSM",
+    "position": "Internship",
+    "website": "http://www.sgsm.it/",
+    "startDate": "2010-06-01",
+    "endDate": "2010-07-01",
+    "summary": "Internshiop",
+    "highlights": [
+      "SEO optimization",
+      "Performance optimization",
+      "Support to developers"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Information technologies",
+    "studyType": "Bachelor",
+  },
+  {
+    "institution": "High school",
+    "area": "Accountancy and software development",
+    "studyType": "High school diploma",
+    "startDate": "2006",
+    "endDate": "2011",
+    "gpa": "80/100",
+  }],
+  "publications": [{
+    "name": "FLUX clean architecture on Android",
+    "publisher": "Droidcon IT 2016",
+    "releaseDate": "2016-04-07",
+    "website": "https://speakerdeck.com/unsign3d/flux-based-clean-architecure",
+    "summary": "Porting the FLUX architecture from Facebook to Android"
+  }],
+  "skills":
+  [
+    {
+    "name": "Backend developer",
+    "level": "Master",
+    "keywords": [
+      "Ruby [On Rails]",
+      "Node.js",
+    ]},
+  {
+  "name": "Databases",
+  "level": "Master",
+  "keywords": [
+    "Postgresql",
+    "MySQL",
+    "ElasticSearch",
+    "CouchDB",
+    "MongoDB"
+  ]},
+  {
+  "name": "Android developer",
+  "level": "Mid",
+  "keywords": [
+    "Java",
+    "MVC/MVP/FLUX/Clean architecture",
+    "RxJava/RxAndroid",
+    "Retrofit",
+    "Understand the constraint of a smartphone",
+    "Understand the UX of a mobile usage"
+  ]},
+],
+  "languages": [{
+    "name": "Italian",
+    "level": "Native speaker"
+  },
+  {
+    "name": "English",
+    "level": "Advanced speaker"
+  }],
+  "interests": [{
+    "name": "Fitness",
+    "keywords": [
+      "Gym",
+      "Running"
+    ]
+  }]
+}
