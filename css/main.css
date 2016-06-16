@@ -58,10 +58,10 @@ body > div.col-sm-6.right-column > div {
 .phone-content {
   background-color: white;
   overflow: hidden;
-
 }
 .scroll-content {
-  overflow: auto;
+
+  overflow-y: scroll;
   height: 568px;
 }
 body > div.col-sm-6.right-column > div > div.screen > div > div {
@@ -94,4 +94,42 @@ body > div.col-sm-6.right-column > div > div.screen > div > div {
 .skill-title {
   font-size: 1.4em;
   text-align: left;
+}
+.scroll-content::-webkit-scrollbar {
+ display: none;
+}
+.demo-card-wide  {
+  width: 315px;
+}
+
+.second-part {
+  margin-top: 50px;
+  background-color: rgb(63, 81, 181);
+}
+
+div.second-title > p {
+  text-align: center;
+  font-size: 1.7em;
+  font-weight: bold;
+  margin: 40px;
+
+  color: white;
+}
+.second-part  {
+  color: white;
+}
+
+body > div.col-sm-12.second-part > div.col-sm-6 > p {
+  font-size: 1.2em;
+  max-width: 350px;
+  margin-top: 12px;
+}
+
+.share-img {
+  max-width: 350px;
+  max-height: 291px;
+  text-align: center;
+}
+.city-image {
+  width: 100%;
 }
