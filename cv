@@ -6,7 +6,7 @@
     "summary": "I'm a Backend (5+ years) and Android (1 years) developer,very passionate about software architectures, clean coding and security.",
     "location": {
       "city": "Berlin",
-      "countryCode": "DE",
+      "countryCode": "DE"
     },
     "profiles": [{
       "network": "Facebook",
@@ -76,7 +76,7 @@
       "Opensource",
       "Automation"
     ]
-  }
+  },
   {
     "company": "Audisio Graphic Design",
     "position": "Consultancy",
@@ -96,7 +96,7 @@
     "website": "http://www.sgsm.it/",
     "startDate": "2010-06-01",
     "endDate": "2010-07-01",
-    "summary": "Internshiop",
+    "summary": "Internship",
     "highlights": [
       "SEO optimization",
       "Performance optimization",
@@ -106,7 +106,7 @@
   "education": [{
     "institution": "University",
     "area": "Information technologies",
-    "studyType": "Bachelor",
+    "studyType": "Bachelor"
   },
   {
     "institution": "High school",
@@ -114,7 +114,7 @@
     "studyType": "High school diploma",
     "startDate": "2006",
     "endDate": "2011",
-    "gpa": "80/100",
+    "gpa": "80/100"
   }],
   "publications": [{
     "name": "FLUX clean architecture on Android",
@@ -130,7 +130,7 @@
     "level": "Master",
     "keywords": [
       "Ruby [On Rails]",
-      "Node.js",
+      "Node.js"
     ]},
   {
   "name": "Databases",
@@ -143,17 +143,18 @@
     "MongoDB"
   ]},
   {
-  "name": "Android developer",
-  "level": "Mid",
-  "keywords": [
-    "Java",
-    "MVC/MVP/FLUX/Clean architecture",
-    "RxJava/RxAndroid",
-    "Retrofit",
-    "Understand the constraint of a smartphone",
-    "Understand the UX of a mobile usage"
-  ]},
-],
+    "name": "Android developer",
+    "level": "Mid",
+    "keywords": [
+      "Java",
+      "MVC/MVP/FLUX/Clean architecture",
+      "RxJava/RxAndroid",
+      "Retrofit",
+      "Understand the constraint of a smartphone",
+      "Understand the UX of a mobile usage"
+    ]
+  }
+  ],
   "languages": [{
     "name": "Italian",
     "level": "Native speaker"
@@ -176,6 +177,6 @@
      "pcmasterrace",
      "retrogaming"
    ]
-  },
+  }
   ]
 }
