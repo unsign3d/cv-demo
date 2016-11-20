@@ -3,7 +3,7 @@
     "name": "Luca Bruzzone",
     "label": "Software developer",
     "website": "http://me.unsigned.it",
-    "summary": "I'm a Backend (5+ years) and Android (1 years) developer,very passionate about software architectures, clean coding and TDD.",
+    "summary": "I'm a Backend (5+ years) and Android (1 years) developer,very passionate about software architectures, clean coding and security.",
     "location": {
       "city": "Berlin",
       "countryCode": "DE",
@@ -34,22 +34,36 @@
       "url": "https://github.com/unsign3d"
     }]
   },
-  "work": [{
-    "company": "Tandù s.r.l",
-    "position": "Backend and Android developer",
-    "website": "http://tandu.it",
-    "startDate": "2015-05-12",
-    "endDate": "2016-06-15",
-    "summary": "Developed web application (backend) and Android app with the latest technologies, worked with cloud environaments",
-    "highlights": [
-      "Test driven development",
-      "Cloud solution architect",
-      "Api architect",
-      "Android architecture research"
-    ]
-  },
-  ,
-  {
+  "work": [
+    {
+      "company": "Helpling GmbH",
+      "position": "Backend Software Engeneer",
+      "website": "http://helpling.com",
+      "startDate": "2016-07-01",
+      "endDate": "",
+      "summary": "Ruby On Rails software developer for Payments, Billing, Cost per Hour served and Business Risk",
+      "highlights": [
+        "Test driven development",
+        "Clean code",
+        "Refactoring",
+        "Software architectures"
+      ]
+    },
+    {
+      "company": "Tandù s.r.l",
+      "position": "Backend and Android developer",
+      "website": "http://tandu.it",
+      "startDate": "2015-05-12",
+      "endDate": "2016-06-15",
+      "summary": "Developed web application (backend) and Android app with the latest technologies, worked with cloud environaments",
+      "highlights": [
+        "Test driven development",
+        "Cloud solution architect",
+        "Api architect",
+        "Android architecture research"
+      ]
+    },
+    {
     "company": "Scale.ws",
     "position": "Cofounder / head of R&D",
     "website": "http://scale.ws/",
@@ -148,11 +162,20 @@
     "name": "English",
     "level": "Advanced speaker"
   }],
-  "interests": [{
+  "interests": [
+    {
     "name": "Fitness",
     "keywords": [
       "Gym",
       "Running"
     ]
-  }]
+   },
+   {
+   "name": "Videogames",
+   "keywords": [
+     "pcmasterrace",
+     "retrogaming"
+   ]
+  },
+  ]
 }
